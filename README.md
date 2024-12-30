@@ -21,7 +21,7 @@ Users can upload their MRI scans, and the application will predict the presence 
 
 ## Directory Structure
 
-```plaintext
+
 project/
 |-- UIFlask.py                 # Flask application
 |-- brain_tumor_classifier.h5  # Trained deep learning model
