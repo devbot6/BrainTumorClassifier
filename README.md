@@ -44,18 +44,18 @@ Ensure you have the following installed on your system:
 ```bash
 git clone https://github.com/yourusername/brain-tumor-classification.git
 cd brain-tumor-classification
-
+```
 ### Step 2: Install Dependencies
 ```bash
 pip install Flask TensorFlow numpy pillow werkzeug
-
+```
 ### Step 3: Download Model
 Ensure the trained model file (brain_tumor_classifier.h5) is in the project root directory. You can replace this with your trained model if needed.
 
 ### Step 4: Run the Application
 ```bash
 python UIFlask.py
-
+```
 ### Step 5: Visit the Application and Run!
 Visit the app in your browser at: http://127.0.0.1:5000/
 
