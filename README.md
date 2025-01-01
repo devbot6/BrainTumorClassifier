@@ -1,4 +1,6 @@
-# Brain Tumor Classification App
+# NeuroScan AI
+
+![Alt text](https://github.com/devbot6/BrainTumorClassifier/blob/main/pics/Screenshot%202025-01-01%20042534.png)
 
 This is a Flask-based web application that uses a deep learning model to classify brain MRI scans into one of the following categories:
 - No Tumor
